@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/jjuro/gitops-foundations-env-2892009.git
+  url: https://github.com/Kevin-Bowersox-Courses/gitops-foundations-env-2892009.git
